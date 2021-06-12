@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+.post { display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color:white;
+    width: 600px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.top {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+button{
+    border: none;
+    justify-content: right;
+}
+.botton{
+    display: flex;
+    flex-direction: column;
+}
+
+.mid {  
+}
+ 
+.icono2 {
+
+    margin-left: auto;
+    margin-right: 10px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+}
+
+.interaccion{
+    margin-left: 2px;
+    margin-right: 5px;
+}
+.guardar{
+    margin-left: auto;
+    margin-right: 10px
+}
+.botton{
+margin-left: 10px;
+margin-right: 10px; 
+}
+p{
+
+}
